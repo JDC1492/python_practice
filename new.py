@@ -1,3 +1,4 @@
-import sys
-system = sys.platform
-print(f"Hello World. This program in running live from {system}")
+
+
+print("Hello World. This program is running live from " )
+title = "The Meaning of life."
