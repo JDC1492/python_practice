@@ -1,4 +1,3 @@
+import random
 
-
-print("Hello World. This program is running live from " )
-title = "The Meaning of life."
+print(random.randint(0,7))
